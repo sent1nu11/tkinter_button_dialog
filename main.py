@@ -1,5 +1,6 @@
 import tkinter as tk
-from tkinter import *
+from tkinter import Tk, Button, filedialog, Label, ttk
+import os
 
 root = tk.Tk()
 root.title("First GUI")
